@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/bde-index.css">
+        <link rel="stylesheet" href="css/bde-bootstrap.css">
+        <link rel="stylesheet" href="css/vendor.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link
+        href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.3.2/mapbox-gl.css"
+        rel="stylesheet"
+      />
+      
+  
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+    
+  <!-- 4 template-path: tmpl_default/header/header_portal.php -->
+  <!-- template start: header_portal -->
+  <div class="container-wrapper container-portal-header">
+
+    <div class="container">
+      <div class="row" role="banner">
+        <div class="span12">
+          <div class="html5-header portal-header hidden-phone">
+            <div class="red-line"></div>
+            <div class="html5-figure main-image">
+              <a href="#" title="Link führt zur Startseite von Berlin.de">
+                <img class="portal-logo" src="images/berlin_de.png" alt="Bild zeigt: Berlin.de Logo"
+                  title="Link führt zur Startseite von Berlin.de" />
+
+              </a>
+            </div>
+            <p class="navSkip">Navigiere direkt zu:</p>
+            <ul class="navSkip">
+              <li><a href="#aural_institutionssuche">Suche</a></li>
+              <li><a href="#aural_maincontent">Inhalt</a></li>
+            </ul>
+            <div class="html5-nav" aria-label="Globale Portal-Links" role="navigation">
+              <p id="bo-portalnavilinkslabel" class="aural">Besuchen Sie auch unsere anderen Themen-Bereiche:</p>
+              <!-- <ul class="portal-navi" id="bo-portalnavilinks" aria-labelledby="bo-portalnavilinkslabel">
+                <li class="active"><a href="https://www.berlin.de/politik-verwaltung-buerger/">Politik, Verwaltung,
+                    Bürger</a></li>
+                <li><a href="https://www.berlin.de/kultur-und-tickets/">Kultur & Ausgehen</a></li>
+                <li><a href="https://www.berlin.de/tourismus/">Tourismus</a></li>
+                <li><a href="https://www.berlin.de/wirtschaft/">Wirtschaft</a></li>
+                <li><a href="https://www.berlin.de/special/">Themen</a></li>
+                <li><a href="https://www.berlin.de/adressen/">Branchenbuch</a></li>
+                <li><a href="https://www.berlin.de/stadtplan/">Stadtplan</a></li>
+              </ul> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-wrapper container-content template-land_start zero-padding">
+    <div class="container">
+        <div id="map"></div>
+    </div>
+  </div>
+      
+  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.3.2/mapbox-gl.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
