@@ -7,7 +7,7 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/mapbox/light-v9', // stylesheet location
   center: [13.404954, 52.520008], // starting position [lng, lat]
   zoom: 12, // starting zoom
-  minZoom: 6,
+  minZoom: 8,
   maxZoom: 18,
   pitch: 45, //angle from plane view
   trackResize: true,
@@ -47,8 +47,7 @@ map.on('load', function() {
       'circle-color': '#253276'
     },
     'circle-radius': {
-      property: 'size',
-      'base': 1.8,
+      base: 4,
       // make circles larger as the user zooms from z12 to z22
       stops: [[12, 2], [22, 180]]
     },
@@ -90,7 +89,7 @@ map.on('click', function(e) {
     '</h3><p>' +
     feature.properties['Einrichtung Strasse'] +
     '<br>' +
-    feature.properties['Einrichtung PLZ'] + ', ' +  feature.properties['Einrichtung Bezirk'] +
+    feature.properties['Einrichtung PLZ'] + ' Berlin'+
     '</p><h4>Plätze gesamt: ' +
     feature.properties['Einrichtung Platzzahl'] +
     '</h4>'
@@ -106,6 +105,7 @@ map.on('click', function(e) {
     map.flyTo({
       center: coords,
       zoom: 12,
+      speed: 0.5, // make the flying slow
     });
 
 });
