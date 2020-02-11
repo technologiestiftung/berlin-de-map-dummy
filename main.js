@@ -1,4 +1,3 @@
-
 /*global mapboxgl*/
 mapboxgl.accessToken =
       'pk.eyJ1IjoiYm5qbW5zYmwiLCJhIjoiY2luc3Qxajk4MDBsY3Zza2x1MWg1b2xzeCJ9.BK1MmHruCVZvMFnL_uTC1w';
