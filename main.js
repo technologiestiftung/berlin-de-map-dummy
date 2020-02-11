@@ -7,30 +7,50 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/mapbox/light-v9', // stylesheet location
   center: [13.404954, 52.520008], // starting position [lng, lat]
   zoom: 12, // starting zoom
-  minZoom: 9,
+  minZoom: 6,
   maxZoom: 18,
   pitch: 45, //angle from plane view
   trackResize: true,
 });
 
-map.on('load', function() {
-  var url = '/data/result.geojson';
+// +++  add geolocate control +++
+const geoLocate = new mapboxgl.GeolocateControl({
+  positionOptions: {
+    enableHighAccuracy: true,
+  },
+  trackUserLocation: true,
+  showUserLocation: true,
+});
+map.addControl(geoLocate);
 
+//+++ adds navigation control to zoom in and out
+map.addControl(new mapboxgl.NavigationControl());
+
+// +++ add scale to the bottom left +++
+var scale = new mapboxgl.ScaleControl({
+  maxWidth: 200,
+  unit: 'metric',
+});
+map.addControl(scale);
+
+map.on('load', function() {
+  var data = '/data/result.geojson';
   map.addLayer({
     id: 'datapoints',
     source: {
       type: 'geojson',
-      data: url
+      data: data
     },
     type: 'circle',
+
     paint: {
       'circle-color': '#253276'
-
     },
     'circle-radius': {
       property: 'size',
-      'base': 1.7,
-      stops: [[8, 1], [11, 6], [16, 40]]
+      'base': 1.8,
+      // make circles larger as the user zooms from z12 to z22
+      stops: [[12, 2], [22, 180]]
     },
     'circle-color': {
       property: 'color',
@@ -41,11 +61,10 @@ map.on('load', function() {
         ['inactive', 'transparent']]
     }
   });
-
 });
 
 
-map.on('mouseenter', 'datapoints', function () {
+map.on('mouseenter', 'datapoints', function (e) {
   map.getCanvas().style.cursor = 'pointer';
 });
 
@@ -64,9 +83,30 @@ map.on('click', function(e) {
 
   var feature = features[0];
 
-  var popup = new mapboxgl.Popup({ offset: [0, -15] })
+  new mapboxgl.Popup({ offset: [0, -15] })
     .setLngLat(feature.geometry.coordinates)
-    .setHTML('<h3>' + feature.properties['Einrichtung Name'] + '</h3><p>Plätze: ' + feature.properties['Einrichtung Platzzahl'] + '</p>')
+    .setHTML('<h3>' +
+    feature.properties['Einrichtung Name'] +
+    '</h3><p>' +
+    feature.properties['Einrichtung Strasse'] +
+    '<br>' +
+    feature.properties['Einrichtung PLZ'] + ', ' +  feature.properties['Einrichtung Bezirk'] +
+    '</p><h4>Plätze gesamt: ' +
+    feature.properties['Einrichtung Platzzahl'] +
+    '</h4>'
+    )
     .addTo(map);
+
+    // define coords of mouse
+    let coordsObj = e.lngLat;
+    let coords = Object.keys(coordsObj).map(function(key) {
+      return coordsObj[key];
+    });
+
+    map.flyTo({
+      center: coords,
+      zoom: 12,
+    });
+
 });
 
