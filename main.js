@@ -104,7 +104,7 @@ map.on('click', function(e) {
 
     map.flyTo({
       center: coords,
-      zoom: 12,
+      zoom: 14,
       speed: 0.5, // make the flying slow
     });
 
