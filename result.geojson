@@ -1,0 +1,5843 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0005-005",
+        "Einrichtung Name": "Haus Kaysersberg",
+        "Einrichtung Strasse": "Buschallee 89B",
+        "Einrichtung PLZ": "13088",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "100",
+        "streetName": "Buschallee ",
+        "streetNumber": "89B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47409,
+          52.55425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0014-003",
+        "Einrichtung Name": "Seniorenheim Müggelschlößchenweg",
+        "Einrichtung Strasse": "Müggelschlößchenweg 46",
+        "Einrichtung PLZ": "12559",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "150",
+        "streetName": "Müggelschlößchenweg ",
+        "streetNumber": "46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60212,
+          52.44042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0065-002",
+        "Einrichtung Name": "Haus Malta Seniorenheim am Malteser-Krankenhaus",
+        "Einrichtung Strasse": "Insterburgallee 13A",
+        "Einrichtung PLZ": "14055",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "51",
+        "streetName": "Insterburgallee ",
+        "streetNumber": "13A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25388,
+          52.50877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0074-002",
+        "Einrichtung Name": "Pflegeheim Pinecki GmbH",
+        "Einrichtung Strasse": "Caspar-Theyß-Straße 23",
+        "Einrichtung PLZ": "14193",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "71",
+        "streetName": "Caspar-Theyß-Straße ",
+        "streetNumber": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2896,
+          52.49142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0093-004",
+        "Einrichtung Name": "St. Alexius Seniorenpflegeheim",
+        "Einrichtung Strasse": "Zingster Straße 74",
+        "Einrichtung PLZ": "13051",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "150",
+        "streetName": "Zingster Straße ",
+        "streetNumber": "74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49766,
+          52.57337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0093-005",
+        "Einrichtung Name": "Bischof-Ketteler-Haus Seniorenpflegeheim",
+        "Einrichtung Strasse": "Gartenstraße 1-5",
+        "Einrichtung PLZ": "13088",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "120",
+        "streetName": "Gartenstraße ",
+        "streetNumber": "1-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46796,
+          52.55074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0143-007",
+        "Einrichtung Name": "Altenpflegeheim \"Haus Ruth\"",
+        "Einrichtung Strasse": "Wilhelm-Kuhr-Straße 78",
+        "Einrichtung PLZ": "13187",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "84",
+        "streetName": "Wilhelm-Kuhr-Straße ",
+        "streetNumber": "78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39589,
+          52.56836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0143-008",
+        "Einrichtung Name": "Heinrich-Grüber-Haus und Margarete-Grüber-Haus",
+        "Einrichtung Strasse": "Teltower Damm 124",
+        "Einrichtung PLZ": "14167",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "70",
+        "streetName": "Teltower Damm ",
+        "streetNumber": "124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26296,
+          52.42272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0159-002",
+        "Einrichtung Name": "Pro Seniore Krankenheim Meinekestraße ",
+        "Einrichtung Strasse": "Meinekestraße 15",
+        "Einrichtung PLZ": "10719",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "93",
+        "streetName": "Meinekestraße ",
+        "streetNumber": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32932,
+          52.49979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0552-002",
+        "Einrichtung Name": "Seniorenzentrum Bethel Friedrichshain gGmbH",
+        "Einrichtung Strasse": "Andreasstraße 21",
+        "Einrichtung PLZ": "10243",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "100",
+        "streetName": "Andreasstraße ",
+        "streetNumber": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43245,
+          52.51371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0588-002",
+        "Einrichtung Name": "Alten- und Pflegeheim \"Am Schlossgarten\"",
+        "Einrichtung Strasse": "Schloßallee 3",
+        "Einrichtung PLZ": "13156",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "45",
+        "streetName": "Schloßallee ",
+        "streetNumber": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4208,
+          52.58106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0588-003",
+        "Einrichtung Name": "Epikur Alten- und Pflegeheim",
+        "Einrichtung Strasse": "Alt-Karow 20",
+        "Einrichtung PLZ": "13125",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "19",
+        "streetName": "Alt-Karow ",
+        "streetNumber": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48439,
+          52.61317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0627-002",
+        "Einrichtung Name": "Seniorenstift St. Antonius",
+        "Einrichtung Strasse": "Rheinpfalzallee 66",
+        "Einrichtung PLZ": "10318",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "100",
+        "streetName": "Rheinpfalzallee ",
+        "streetNumber": "66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5344,
+          52.48956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0765-002",
+        "Einrichtung Name": "TERTIANUM Residenz Berlin",
+        "Einrichtung Strasse": "Passauer Straße 5-7",
+        "Einrichtung PLZ": "10789",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "25",
+        "streetName": "Passauer Straße ",
+        "streetNumber": "5-7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33956,
+          52.50115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0782-004",
+        "Einrichtung Name": "Erich-Raddatz-Haus",
+        "Einrichtung Strasse": "Sonnenallee 298-302",
+        "Einrichtung PLZ": "12057",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "113",
+        "streetName": "Sonnenallee ",
+        "streetNumber": "298-302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46849,
+          52.4669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0782-005",
+        "Einrichtung Name": "Haus Simeon",
+        "Einrichtung Strasse": "Buckower Damm 31a",
+        "Einrichtung PLZ": "12349",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "120",
+        "streetName": "Buckower Damm ",
+        "streetNumber": "31a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43562,
+          52.44105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0782-006",
+        "Einrichtung Name": "Hermann-Radtke-Haus",
+        "Einrichtung Strasse": "Buckower Damm 31",
+        "Einrichtung PLZ": "12349",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "93",
+        "streetName": "Buckower Damm ",
+        "streetNumber": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43562,
+          52.44105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0866-013",
+        "Einrichtung Name": "RENAFAN ServiceLeben-Tegel",
+        "Einrichtung Strasse": "Schloßstraße 6",
+        "Einrichtung PLZ": "13507",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "140",
+        "streetName": "Schloßstraße ",
+        "streetNumber": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28394,
+          52.59157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0866-014",
+        "Einrichtung Name": "RENAFAN ServiceLeben LudwigPark - Pflegeheim",
+        "Einrichtung Strasse": "Zepernicker Straße 2",
+        "Einrichtung PLZ": "13125",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "84",
+        "streetName": "Zepernicker Straße ",
+        "streetNumber": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50991,
+          52.63983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-004",
+        "Einrichtung Name": "Hauptstadtpflege Haus Jungfernheide",
+        "Einrichtung Strasse": "Schweiggerweg 2-12",
+        "Einrichtung PLZ": "13627",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "135",
+        "streetName": "Schweiggerweg ",
+        "streetNumber": "2-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28285,
+          52.53835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-006",
+        "Einrichtung Name": "Hauptstadtpflege Haus Jahreszeiten",
+        "Einrichtung Strasse": "Büschingstraße 29",
+        "Einrichtung PLZ": "10249",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "151",
+        "streetName": "Büschingstraße ",
+        "streetNumber": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42758,
+          52.52443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-007",
+        "Einrichtung Name": "Hauptstadtpflege Haus Weidenweg",
+        "Einrichtung Strasse": "Weidenweg 42",
+        "Einrichtung PLZ": "10249",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "122",
+        "streetName": "Weidenweg ",
+        "streetNumber": "42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45082,
+          52.51719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-008",
+        "Einrichtung Name": "Hauptstadtpflege Haus Leonore",
+        "Einrichtung Strasse": "Leonorenstraße 17-33",
+        "Einrichtung PLZ": "12247",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "178",
+        "streetName": "Leonorenstraße ",
+        "streetNumber": "17-33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.341,
+          52.44372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-009",
+        "Einrichtung Name": "Hauptstadtpflege Haus Teichstraße",
+        "Einrichtung Strasse": "Teichstraße 44",
+        "Einrichtung PLZ": "13407",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "145",
+        "streetName": "Teichstraße ",
+        "streetNumber": "44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34729,
+          52.56886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-010",
+        "Einrichtung Name": "Hauptstadtpflege Haus Dr. Hermann Kantorowicz",
+        "Einrichtung Strasse": "Schönwalder Straße 50-52",
+        "Einrichtung PLZ": "13585",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "103",
+        "streetName": "Schönwalder Straße ",
+        "streetNumber": "50-52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19993,
+          52.55225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-011",
+        "Einrichtung Name": "Hauptstadtpflege Haus Ernst Hoppe",
+        "Einrichtung Strasse": "Lanzendorfer Weg 30",
+        "Einrichtung PLZ": "14089",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "148",
+        "streetName": "Lanzendorfer Weg ",
+        "streetNumber": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.11434,
+          52.44915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-014",
+        "Einrichtung Name": "Hauptstadtpflege Haus Wilmersdorf",
+        "Einrichtung Strasse": "Berkaer Straße 31-35",
+        "Einrichtung PLZ": "14199",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "123",
+        "streetName": "Berkaer Straße ",
+        "streetNumber": "31-35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28573,
+          52.47878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-018",
+        "Einrichtung Name": "Hauptstadtpflege Haus Sommerstraße",
+        "Einrichtung Strasse": "Sommerstraße 25C",
+        "Einrichtung PLZ": "13409",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "72",
+        "streetName": "Sommerstraße ",
+        "streetNumber": "25C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37428,
+          52.57439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-020",
+        "Einrichtung Name": "Hauptstadtpflege Haus John F. Kennedy",
+        "Einrichtung Strasse": "Alt-Wittenau 89-90",
+        "Einrichtung PLZ": "13437",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "180",
+        "streetName": "Alt-Wittenau ",
+        "streetNumber": "89-90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33586,
+          52.58943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-023",
+        "Einrichtung Name": "Hauptstadtpflege Haus Louise-Schroeder",
+        "Einrichtung Strasse": "Westphalweg 1",
+        "Einrichtung PLZ": "12109",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "80",
+        "streetName": "Westphalweg ",
+        "streetNumber": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39581,
+          52.44504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-024",
+        "Einrichtung Name": "Hauptstadtpflege Haus Seebrücke",
+        "Einrichtung Strasse": "Am Maselakepark 20",
+        "Einrichtung PLZ": "13587",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "179",
+        "streetName": "Am Maselakepark ",
+        "streetNumber": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21159,
+          52.55563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-027",
+        "Einrichtung Name": "Hauptstadtpflege Haus Ida Wolff",
+        "Einrichtung Strasse": "Juchaczweg 21",
+        "Einrichtung PLZ": "12351",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "112",
+        "streetName": "Juchaczweg ",
+        "streetNumber": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45711,
+          52.43444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-032",
+        "Einrichtung Name": "Hauptstadtpflege Haus Britz ",
+        "Einrichtung Strasse": "Buschkrugallee 139",
+        "Einrichtung PLZ": "12359",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "110",
+        "streetName": "Buschkrugallee ",
+        "streetNumber": "139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45333,
+          52.45087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-033",
+        "Einrichtung Name": "Hauptstadtpflege Haus Danziger Straße ",
+        "Einrichtung Strasse": "Danziger Straße 245",
+        "Einrichtung PLZ": "10407",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "88",
+        "streetName": "Danziger Straße ",
+        "streetNumber": "245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44831,
+          52.52749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0898-034",
+        "Einrichtung Name": "Hauptstadtpflege Haus Franckepark ",
+        "Einrichtung Strasse": "Götzstraße 20a",
+        "Einrichtung PLZ": "12099",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "88",
+        "streetName": "Götzstraße ",
+        "streetNumber": "20a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39059,
+          52.4643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0901-001",
+        "Einrichtung Name": "AlexA Seniorenresidenz Berlin-Lichtenrade",
+        "Einrichtung Strasse": "Rudolf-Pechel-Straße 32",
+        "Einrichtung PLZ": "12305",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "145",
+        "streetName": "Rudolf-Pechel-Straße ",
+        "streetNumber": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39441,
+          52.40122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0901-002",
+        "Einrichtung Name": "AlexA Seniorenresidenz Berlin-Lichtenberg",
+        "Einrichtung Strasse": "Möllendorffstraße 90B",
+        "Einrichtung PLZ": "10367",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "24",
+        "streetName": "Möllendorffstraße ",
+        "streetNumber": "90B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47825,
+          52.51976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0904-001",
+        "Einrichtung Name": "Alten- und Pflegeheim Silvia Walke",
+        "Einrichtung Strasse": "Gallwitzallee 127",
+        "Einrichtung PLZ": "12249",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "47",
+        "streetName": "Gallwitzallee ",
+        "streetNumber": "127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35141,
+          52.425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0907-001",
+        "Einrichtung Name": "Alten-und Pflegeheim Lutherheim",
+        "Einrichtung Strasse": "Müllenhoffstraße 5",
+        "Einrichtung PLZ": "10967",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "59",
+        "streetName": "Müllenhoffstraße ",
+        "streetNumber": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41511,
+          52.492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0916-001",
+        "Einrichtung Name": "Fürsorge im Alter Seniorenresidenz Haus Bavaria",
+        "Einrichtung Strasse": "Alt-Tempelhof 10-12",
+        "Einrichtung PLZ": "12099",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "140",
+        "streetName": "Alt-Tempelhof ",
+        "streetNumber": "10-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38765,
+          52.46617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0920-001",
+        "Einrichtung Name": "Blindenwohnstätte Kniesehaus gemeinnützige BetriebsGmbH ",
+        "Einrichtung Strasse": "Stindestraße 25",
+        "Einrichtung PLZ": "12167",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "78",
+        "streetName": "Stindestraße ",
+        "streetNumber": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33936,
+          52.44775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0922-001",
+        "Einrichtung Name": "BWS Blindenwohnstätten gemeinn. Betriebs GmbH Spandau",
+        "Einrichtung Strasse": "Niederneuendorfer Allee 6-9",
+        "Einrichtung PLZ": "13587",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "120",
+        "streetName": "Niederneuendorfer Allee ",
+        "streetNumber": "6-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21032,
+          52.56634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0927-001",
+        "Einrichtung Name": "DRK Kliniken Berlin I Pflege & Wohnen Mariendorf",
+        "Einrichtung Strasse": "Britzer Straße 91",
+        "Einrichtung PLZ": "12109",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "142",
+        "streetName": "Britzer Straße ",
+        "streetNumber": "91"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39758,
+          52.4398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0930-001",
+        "Einrichtung Name": "Elsbeth-Seidel-Haus",
+        "Einrichtung Strasse": "Wernerstraße 9-11",
+        "Einrichtung PLZ": "14193",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "101",
+        "streetName": "Wernerstraße ",
+        "streetNumber": "9-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27367,
+          52.48333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0936-001",
+        "Einrichtung Name": "Ev. Pflegeheim Lutherstift - Altbau",
+        "Einrichtung Strasse": "Lutherstraße 7",
+        "Einrichtung PLZ": "12167",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "38",
+        "streetName": "Lutherstraße ",
+        "streetNumber": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32758,
+          52.4501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0936-002",
+        "Einrichtung Name": "Ev. Pflegeheim Lutherstift - Neubau",
+        "Einrichtung Strasse": "Lutherstraße 7",
+        "Einrichtung PLZ": "12167",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "24",
+        "streetName": "Lutherstraße ",
+        "streetNumber": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32758,
+          52.4501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0941-002",
+        "Einrichtung Name": "Pflege & Wohnen Elisabeth",
+        "Einrichtung Strasse": "Lützowstraße 24",
+        "Einrichtung PLZ": "10785",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "112",
+        "streetName": "Lützowstraße ",
+        "streetNumber": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3649,
+          52.50353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0941-003",
+        "Einrichtung Name": "Pflege & Wohnen Hubertus ",
+        "Einrichtung Strasse": "Spanische Allee 10-12",
+        "Einrichtung PLZ": "14129",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "31",
+        "streetName": "Spanische Allee ",
+        "streetNumber": "10-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22124,
+          52.4302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0942-001",
+        "Einrichtung Name": "Evangelisches Seniorenheim Albestraße",
+        "Einrichtung Strasse": "Albestraße 31",
+        "Einrichtung PLZ": "12159",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "108",
+        "streetName": "Albestraße ",
+        "streetNumber": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33384,
+          52.4733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0947-001",
+        "Einrichtung Name": "Fugger-Klinik",
+        "Einrichtung Strasse": "Fuggerstraße 29",
+        "Einrichtung PLZ": "10777",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "108",
+        "streetName": "Fuggerstraße ",
+        "streetNumber": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34356,
+          52.49889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0948-001",
+        "Einrichtung Name": "geriavita Pflegeheim am Schützenhof",
+        "Einrichtung Strasse": "Niederneuendorfer Allee 13",
+        "Einrichtung PLZ": "13587",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "57",
+        "streetName": "Niederneuendorfer Allee ",
+        "streetNumber": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21204,
+          52.56824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0951-001",
+        "Einrichtung Name": "Haus Birkenhof",
+        "Einrichtung Strasse": "Lindenthaler Allee 20",
+        "Einrichtung PLZ": "14163",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "27",
+        "streetName": "Lindenthaler Allee ",
+        "streetNumber": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23028,
+          52.43428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0953-001",
+        "Einrichtung Name": "Haus Christophorus",
+        "Einrichtung Strasse": "Eyke-von-Repkow-Platz 2",
+        "Einrichtung PLZ": "10555",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "28",
+        "streetName": "Eyke-von-Repkow-Platz ",
+        "streetNumber": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3332,
+          52.51885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0954-002",
+        "Einrichtung Name": "Haus der Betreuung und Pflege Schlachtensee",
+        "Einrichtung Strasse": "Spanische Allee 8",
+        "Einrichtung PLZ": "14129",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "54",
+        "streetName": "Spanische Allee ",
+        "streetNumber": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22198,
+          52.4305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0954-005",
+        "Einrichtung Name": "Haus der Betreuung und Pflege Nansen",
+        "Einrichtung Strasse": "Berliner Straße 11",
+        "Einrichtung PLZ": "14169",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "118",
+        "streetName": "Berliner Straße ",
+        "streetNumber": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26375,
+          52.43553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0954-006",
+        "Einrichtung Name": "Seniorenwelt Zühlsdorfer Straße",
+        "Einrichtung Strasse": "Zühlsdorfer Straße 20",
+        "Einrichtung PLZ": "12679",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "115",
+        "streetName": "Zühlsdorfer Straße ",
+        "streetNumber": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54961,
+          52.54685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0954-008",
+        "Einrichtung Name": "Haus der Betreuung und Pflege Am Grabensprung ",
+        "Einrichtung Strasse": "Grabensprung 29",
+        "Einrichtung PLZ": "12683",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "150",
+        "streetName": "Grabensprung ",
+        "streetNumber": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55301,
+          52.50669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0954-009",
+        "Einrichtung Name": "Haus der Betreuung und Pflege Biesdorf-Süd  ",
+        "Einrichtung Strasse": "Köpenicker Straße 302",
+        "Einrichtung PLZ": "12683",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "112",
+        "streetName": "Köpenicker Straße ",
+        "streetNumber": "302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55809,
+          52.47491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0961-001",
+        "Einrichtung Name": "Haus Friedenshöhe Ev. stationäre Pflegeeinrichtung",
+        "Einrichtung Strasse": "Sigismundkorso 68-70",
+        "Einrichtung PLZ": "13465",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "125",
+        "streetName": "Sigismundkorso ",
+        "streetNumber": "68-70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27646,
+          52.62995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0961-002",
+        "Einrichtung Name": "Fischer-Dittmer-Heim Ev. stationäre Pflegeeinrichtung",
+        "Einrichtung Strasse": "Hohenzollernring 119",
+        "Einrichtung PLZ": "13585",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "52",
+        "streetName": "Hohenzollernring ",
+        "streetNumber": "119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19674,
+          52.55547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0961-003",
+        "Einrichtung Name": "Haus Rüsternallee Ev. stationäre Pflegeeinrichtung",
+        "Einrichtung Strasse": "Rüsternallee 4",
+        "Einrichtung PLZ": "14050",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "89",
+        "streetName": "Rüsternallee ",
+        "streetNumber": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27456,
+          52.51342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0964-001",
+        "Einrichtung Name": "SeniorenHaus Lerchenweg",
+        "Einrichtung Strasse": "Eisenacher Straße 70",
+        "Einrichtung PLZ": "12109",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "80",
+        "streetName": "Eisenacher Straße ",
+        "streetNumber": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38671,
+          52.44822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0965-002",
+        "Einrichtung Name": "Pflegewerk Haus Curamus gGmbH",
+        "Einrichtung Strasse": "Ladenbergstraße 6-8",
+        "Einrichtung PLZ": "14195",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "62",
+        "streetName": "Ladenbergstraße ",
+        "streetNumber": "6-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29195,
+          52.44616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0967-001",
+        "Einrichtung Name": "Seniorenpflegeheim Haus Rothenburg",
+        "Einrichtung Strasse": "Herwarthstraße 15",
+        "Einrichtung PLZ": "12207",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "18",
+        "streetName": "Herwarthstraße ",
+        "streetNumber": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31455,
+          52.432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0969-001",
+        "Einrichtung Name": "Haus Teplitz Alten- und Pflegeheim GmbH ",
+        "Einrichtung Strasse": "Teplitzer Straße 10",
+        "Einrichtung PLZ": "14193",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "37",
+        "streetName": "Teplitzer Straße ",
+        "streetNumber": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2814,
+          52.48156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0970-001",
+        "Einrichtung Name": "Haus Waldow Senioren- und Pflegeheim",
+        "Einrichtung Strasse": "Cimbernstraße 36",
+        "Einrichtung PLZ": "14129",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "30",
+        "streetName": "Cimbernstraße ",
+        "streetNumber": "36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19921,
+          52.42502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0971-001",
+        "Einrichtung Name": "Haus Wiesengrund gGmbH",
+        "Einrichtung Strasse": "Pinnauweg 15-17",
+        "Einrichtung PLZ": "14167",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "49",
+        "streetName": "Pinnauweg ",
+        "streetNumber": "15-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27853,
+          52.42101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0977-003",
+        "Einrichtung Name": "Hermann-Strauß Pflegeheim",
+        "Einrichtung Strasse": "Herbartstraße 24",
+        "Einrichtung PLZ": "14057",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "41",
+        "streetName": "Herbartstraße ",
+        "streetNumber": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28638,
+          52.50424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0980-001",
+        "Einrichtung Name": "Johanniter-Stift Berlin-Lichterfelde",
+        "Einrichtung Strasse": "Finckensteinallee 125",
+        "Einrichtung PLZ": "12205",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "144",
+        "streetName": "Finckensteinallee ",
+        "streetNumber": "125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28906,
+          52.43266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0982-001",
+        "Einrichtung Name": "Caritas-Seniorenheim Bernhard-Lichtenberg-Haus",
+        "Einrichtung Strasse": "Alt-Lietzow 27/ 29",
+        "Einrichtung PLZ": "10587",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "43",
+        "streetName": "Alt-Lietzow ",
+        "streetNumber": "27/29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31007,
+          52.51887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0982-002",
+        "Einrichtung Name": "Caritas-Seniorenheim Franz-Jordan-Stift",
+        "Einrichtung Strasse": "Dianastraße 17",
+        "Einrichtung PLZ": "13469",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "90",
+        "streetName": "Dianastraße ",
+        "streetNumber": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3138,
+          52.60881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0982-004",
+        "Einrichtung Name": "Caritas-Seniorenzentrum St. Albertus",
+        "Einrichtung Strasse": "Degnerstraße 22",
+        "Einrichtung PLZ": "13053",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "76",
+        "streetName": "Degnerstraße ",
+        "streetNumber": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49649,
+          52.54755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0982-005",
+        "Einrichtung Name": "Caritas-Seniorenzentrum Kardinal Bengsch",
+        "Einrichtung Strasse": "Iburger Ufer 14",
+        "Einrichtung PLZ": "10587",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "63",
+        "streetName": "Iburger Ufer ",
+        "streetNumber": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31093,
+          52.52007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0982-006",
+        "Einrichtung Name": "Caritas-Seniorenheim St. Kamillus",
+        "Einrichtung Strasse": "Klausenerplatz 12-13",
+        "Einrichtung PLZ": "14059",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "40",
+        "streetName": "Klausenerplatz ",
+        "streetNumber": "12-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29152,
+          52.51772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0982-009",
+        "Einrichtung Name": "Caritas-Seniorenheim St. Josef",
+        "Einrichtung Strasse": "Dominicusstraße 13",
+        "Einrichtung PLZ": "10823",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "97",
+        "streetName": "Dominicusstraße ",
+        "streetNumber": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34652,
+          52.4832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0982-011",
+        "Einrichtung Name": "Caritas-Seniorenzentrum St. Konrad",
+        "Einrichtung Strasse": "Antoniuskirchstraße 3-5",
+        "Einrichtung PLZ": "12459",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "89",
+        "streetName": "Antoniuskirchstraße ",
+        "streetNumber": "3-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51646,
+          52.4654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0982-013",
+        "Einrichtung Name": "Caritas-Seniorenzentrum St. Johannes Berlin ",
+        "Einrichtung Strasse": "Wilhelmstraße 122",
+        "Einrichtung PLZ": "10963",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "68",
+        "streetName": "Wilhelmstraße ",
+        "streetNumber": "122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38732,
+          52.50351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0983-001",
+        "Einrichtung Name": "Karl-Steeb-Heim",
+        "Einrichtung Strasse": "Hagenstraße 39-47",
+        "Einrichtung PLZ": "14193",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "100",
+        "streetName": "Hagenstraße ",
+        "streetNumber": "39-47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27173,
+          52.47962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0987-003",
+        "Einrichtung Name": "Komplexe Pflegeeinrichtung Friedrich W. Büttner",
+        "Einrichtung Strasse": "Greifswalder Straße 91",
+        "Einrichtung PLZ": "10409",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "50",
+        "streetName": "Greifswalder Straße ",
+        "streetNumber": "91"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44241,
+          52.54376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0988-001",
+        "Einrichtung Name": "König Seniorenheim",
+        "Einrichtung Strasse": "Libellenstraße 15/16",
+        "Einrichtung PLZ": "14129",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "70",
+        "streetName": "Libellenstraße ",
+        "streetNumber": "15/16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19499,
+          52.42475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0990-001",
+        "Einrichtung Name": "Seniorenhaus am Rhumeweg",
+        "Einrichtung Strasse": "Rhumeweg 32",
+        "Einrichtung PLZ": "14163",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "65",
+        "streetName": "Rhumeweg ",
+        "streetNumber": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22911,
+          52.43314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0991-001",
+        "Einrichtung Name": "Psychiatrisches Zentrum für Betreuung und Pflege am Sandwerder Berlin-Wannsee",
+        "Einrichtung Strasse": "Am Sandwerder 43",
+        "Einrichtung PLZ": "14109",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "85",
+        "streetName": "Am Sandwerder ",
+        "streetNumber": "43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18436,
+          52.42791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0991-003",
+        "Einrichtung Name": "Seniorenpflegezentrum Curanum Jungfernstieg",
+        "Einrichtung Strasse": "Jungfernstieg 18",
+        "Einrichtung PLZ": "12207",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "42",
+        "streetName": "Jungfernstieg ",
+        "streetNumber": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32907,
+          52.43259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0995-001",
+        "Einrichtung Name": "Kursana Domizil Berlin-Marzahn",
+        "Einrichtung Strasse": "Märkische Allee 68",
+        "Einrichtung PLZ": "12681",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "153",
+        "streetName": "Märkische Allee ",
+        "streetNumber": "68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5429,
+          52.52294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0995-002",
+        "Einrichtung Name": "Kursana Domizil Berlin-Lichtenberg",
+        "Einrichtung Strasse": "Gensinger Straße 103",
+        "Einrichtung PLZ": "10315",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "148",
+        "streetName": "Gensinger Straße ",
+        "streetNumber": "103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53354,
+          52.51154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0997-001",
+        "Einrichtung Name": "KATHARINENHOF am Spreeufer",
+        "Einrichtung Strasse": "Bruno-Bürgel-Weg 1-5",
+        "Einrichtung PLZ": "12439",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "118",
+        "streetName": "Bruno-Bürgel-Weg ",
+        "streetNumber": "1-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53354,
+          52.45236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0997-002",
+        "Einrichtung Name": "KATHARINENHOF City West",
+        "Einrichtung Strasse": "Schlüterstraße 62",
+        "Einrichtung PLZ": "10625",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "114",
+        "streetName": "Schlüterstraße ",
+        "streetNumber": "62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31783,
+          52.50572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0997-003",
+        "Einrichtung Name": "KATHARINENHOF in Friedenau",
+        "Einrichtung Strasse": "Bennigsenstraße 23/24",
+        "Einrichtung PLZ": "12159",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "74",
+        "streetName": "Bennigsenstraße ",
+        "streetNumber": "23/24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33736,
+          52.47654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-0997-004",
+        "Einrichtung Name": "KATHARINENHOF Alt Britz",
+        "Einrichtung Strasse": "Britzer Damm 140",
+        "Einrichtung PLZ": "12347",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "131",
+        "streetName": "Britzer Damm ",
+        "streetNumber": "140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43711,
+          52.45048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1004-001",
+        "Einrichtung Name": "Nova Vita Residenz Berlin-Wilmersdorf",
+        "Einrichtung Strasse": "Emser Platz 5",
+        "Einrichtung PLZ": "10719",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "34",
+        "streetName": "Emser Platz ",
+        "streetNumber": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31889,
+          52.49235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1004-002",
+        "Einrichtung Name": "Nova Vita Pflegeresidenz im Paulinenhaus ",
+        "Einrichtung Strasse": "Eschenallee 28",
+        "Einrichtung PLZ": "14050",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "86",
+        "streetName": "Eschenallee ",
+        "streetNumber": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26741,
+          52.51458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1007-001",
+        "Einrichtung Name": "Pflege- und Gesundheitszentrum Treptow",
+        "Einrichtung Strasse": "Kiefholzstraße 177",
+        "Einrichtung PLZ": "12437",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "40",
+        "streetName": "Kiefholzstraße ",
+        "streetNumber": "177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4848,
+          52.46655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1014-001",
+        "Einrichtung Name": "Pflegeheim Heinz Gärtner GmbH \"Ruhesitz am Tiergarten\"",
+        "Einrichtung Strasse": "Zietenstraße 4",
+        "Einrichtung PLZ": "10783",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "44",
+        "streetName": "Zietenstraße ",
+        "streetNumber": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35725,
+          52.49966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1015-001",
+        "Einrichtung Name": "Pflegeheim Huttenstraße GmbH",
+        "Einrichtung Strasse": "Huttenstraße 65",
+        "Einrichtung PLZ": "10553",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "74",
+        "streetName": "Huttenstraße ",
+        "streetNumber": "65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3261,
+          52.52746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1016-001",
+        "Einrichtung Name": "Pflege & Wohnen Sunpark",
+        "Einrichtung Strasse": "Mariendorfer Weg 22",
+        "Einrichtung PLZ": "12051",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "191",
+        "streetName": "Mariendorfer Weg ",
+        "streetNumber": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42668,
+          52.46404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1022-001",
+        "Einrichtung Name": "Haus Abendsonne - Altbau    ",
+        "Einrichtung Strasse": "Volkradstraße 28",
+        "Einrichtung PLZ": "10319",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "100",
+        "streetName": "Volkradstraße ",
+        "streetNumber": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50693,
+          52.50006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1022-004",
+        "Einrichtung Name": "Haus Abendsonne - Anbau",
+        "Einrichtung Strasse": "Volkradstraße 28",
+        "Einrichtung PLZ": "10319",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "13",
+        "streetName": "Volkradstraße ",
+        "streetNumber": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50693,
+          52.50006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1026-001",
+        "Einrichtung Name": "Wohnpark am Cecilienplatz",
+        "Einrichtung Strasse": "Lily-Braun-Straße 54",
+        "Einrichtung PLZ": "12619",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "145",
+        "streetName": "Lily-Braun-Straße ",
+        "streetNumber": "54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.59378,
+          52.52082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1026-003",
+        "Einrichtung Name": "Pflegewohnzentrum Wuhlepark",
+        "Einrichtung Strasse": "Bansiner Straße 21",
+        "Einrichtung PLZ": "12619",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "296",
+        "streetName": "Bansiner Straße ",
+        "streetNumber": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58501,
+          52.51808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1026-006",
+        "Einrichtung Name": "Wohnpark am Rohrpfuhl, WG f. pflegeb.ältere Menschen",
+        "Einrichtung Strasse": "Florastraße 1",
+        "Einrichtung PLZ": "12623",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "80",
+        "streetName": "Florastraße ",
+        "streetNumber": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61639,
+          52.51407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1030-001",
+        "Einrichtung Name": "Pflegezentrum Sonnenallee",
+        "Einrichtung Strasse": "Sonnenallee 47",
+        "Einrichtung PLZ": "12045",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "145",
+        "streetName": "Sonnenallee ",
+        "streetNumber": "47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43239,
+          52.48553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1031-001",
+        "Einrichtung Name": "Seniorenstift St. Marien Berlin-Kreuzberg",
+        "Einrichtung Strasse": "Lausitzer Straße 41-44",
+        "Einrichtung PLZ": "10999",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "69",
+        "streetName": "Lausitzer Straße ",
+        "streetNumber": "41-44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42859,
+          52.4969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1033-001",
+        "Einrichtung Name": "Pflegeheim B. Effinger",
+        "Einrichtung Strasse": "Bruno-Bürgel-Weg 122",
+        "Einrichtung PLZ": "12439",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "60",
+        "streetName": "Bruno-Bürgel-Weg ",
+        "streetNumber": "122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54681,
+          52.45375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1035-001",
+        "Einrichtung Name": "Pro Seniore Krankenheim Eichborndamm",
+        "Einrichtung Strasse": "Eichborndamm 176",
+        "Einrichtung PLZ": "13403",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "156",
+        "streetName": "Eichborndamm ",
+        "streetNumber": "176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32153,
+          52.58422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1036-001",
+        "Einrichtung Name": "Pro Seniore Krankenheim Genthiner Straße",
+        "Einrichtung Strasse": "Genthiner Straße 24-28",
+        "Einrichtung PLZ": "10785",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "173",
+        "streetName": "Genthiner Straße ",
+        "streetNumber": "24-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35925,
+          52.50371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1044-001",
+        "Einrichtung Name": "Residenz Ambiente Berlin",
+        "Einrichtung Strasse": "Am Friedrichshain 16-18",
+        "Einrichtung PLZ": "10407",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "156",
+        "streetName": "Am Friedrichshain ",
+        "streetNumber": "16-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42985,
+          52.52888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1046-001",
+        "Einrichtung Name": "Residenz Zehlendorf",
+        "Einrichtung Strasse": "Claszeile 40",
+        "Einrichtung PLZ": "14165",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "145",
+        "streetName": "Claszeile ",
+        "streetNumber": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25726,
+          52.42071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1047-001",
+        "Einrichtung Name": "Park Alterssitz City",
+        "Einrichtung Strasse": "Meinekestraße 14",
+        "Einrichtung PLZ": "10719",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "122",
+        "streetName": "Meinekestraße ",
+        "streetNumber": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32887,
+          52.4996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1048-001",
+        "Einrichtung Name": "Pflegewerk Senioren Centrum gGmbH Wisbyer Straße ",
+        "Einrichtung Strasse": "Wisbyer Straße 16/17",
+        "Einrichtung PLZ": "10439",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "74",
+        "streetName": "Wisbyer Straße ",
+        "streetNumber": "16/17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42114,
+          52.55261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1048-002",
+        "Einrichtung Name": "Pflegewerk Senioren Centrum gGmbHTurmstraße",
+        "Einrichtung Strasse": "Turmstraße 21",
+        "Einrichtung PLZ": "10559",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "56",
+        "streetName": "Turmstraße ",
+        "streetNumber": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34785,
+          52.52642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1048-003",
+        "Einrichtung Name": "Pflegewerk Senioren Centrum Haus Michaelkirchstrasse  ",
+        "Einrichtung Strasse": "Michaelkirchstraße 19",
+        "Einrichtung PLZ": "10179",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "31",
+        "streetName": "Michaelkirchstraße ",
+        "streetNumber": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42251,
+          52.5112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1050-001",
+        "Einrichtung Name": "Seniorenhaus Siegfriedshof",
+        "Einrichtung Strasse": "Wotanstraße 2-3",
+        "Einrichtung PLZ": "10365",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "56",
+        "streetName": "Wotanstraße ",
+        "streetNumber": "2-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4965,
+          52.51475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1052-001",
+        "Einrichtung Name": "Senioren- und Therapiezentrum Haus am Park",
+        "Einrichtung Strasse": "Schonensche Straße 26",
+        "Einrichtung PLZ": "13189",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "269",
+        "streetName": "Schonensche Straße ",
+        "streetNumber": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42139,
+          52.55407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1055-001",
+        "Einrichtung Name": "Seniorendomizil am Alboinplatz",
+        "Einrichtung Strasse": "Friedrich-Wilhelm-Straße 52",
+        "Einrichtung PLZ": "12103",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "51",
+        "streetName": "Friedrich-Wilhelm-Straße ",
+        "streetNumber": "52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37288,
+          52.4585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1056-001",
+        "Einrichtung Name": "Seniorendomizil an der Panke GmbH",
+        "Einrichtung Strasse": "Koloniestraße 23",
+        "Einrichtung PLZ": "13359",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "96",
+        "streetName": "Koloniestraße ",
+        "streetNumber": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37926,
+          52.55828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1062-001",
+        "Einrichtung Name": "Seniorenheim Schleusinger Straße",
+        "Einrichtung Strasse": "Schleusinger Straße 14",
+        "Einrichtung PLZ": "12687",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "125",
+        "streetName": "Schleusinger Straße ",
+        "streetNumber": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56522,
+          52.55852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1064-001",
+        "Einrichtung Name": "Seniorenheim Helmut-Böttcher-Haus",
+        "Einrichtung Strasse": "Woldegker Straße 5",
+        "Einrichtung PLZ": "13059",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "162",
+        "streetName": "Woldegker Straße ",
+        "streetNumber": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51295,
+          52.57448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1064-002",
+        "Einrichtung Name": "Seniorenheim Haus Am Auwald",
+        "Einrichtung Strasse": "Buckower Ring 62",
+        "Einrichtung PLZ": "12683",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "119",
+        "streetName": "Buckower Ring ",
+        "streetNumber": "62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5738,
+          52.5256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1064-003",
+        "Einrichtung Name": "Seniorenheim Alfred-Jung-Straße",
+        "Einrichtung Strasse": "Alfred-Jung-Straße 17",
+        "Einrichtung PLZ": "10367",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "146",
+        "streetName": "Alfred-Jung-Straße ",
+        "streetNumber": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47695,
+          52.52261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1065-001",
+        "Einrichtung Name": "Seniorenheim  St. Richard ",
+        "Einrichtung Strasse": "Schudomastraße 16",
+        "Einrichtung PLZ": "12055",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "68",
+        "streetName": "Schudomastraße ",
+        "streetNumber": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45131,
+          52.4733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1067-001",
+        "Einrichtung Name": "Seniorenheim am Jungfernstieg GmbH",
+        "Einrichtung Strasse": "Jungfernstieg 24/24A",
+        "Einrichtung PLZ": "12207",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "47",
+        "streetName": "Jungfernstieg ",
+        "streetNumber": "24/24A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32707,
+          52.43073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1068-002",
+        "Einrichtung Name": "Seniorenheim am Lietzensee GmbH \"Haus Rixdorf\"",
+        "Einrichtung Strasse": "Delbrückstraße 25",
+        "Einrichtung PLZ": "12051",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "314",
+        "streetName": "Delbrückstraße ",
+        "streetNumber": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43519,
+          52.46512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1071-001",
+        "Einrichtung Name": "Seniorenheim Bessemerstraße",
+        "Einrichtung Strasse": "Bessemerstraße 78",
+        "Einrichtung PLZ": "12103",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "199",
+        "streetName": "Bessemerstraße ",
+        "streetNumber": "78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36638,
+          52.46129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1072-001",
+        "Einrichtung Name": "Seniorenheim Czapla GmbH",
+        "Einrichtung Strasse": "Bayernallee 49-50",
+        "Einrichtung PLZ": "14052",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "36",
+        "streetName": "Bayernallee ",
+        "streetNumber": "49-50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26743,
+          52.51008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1073-001",
+        "Einrichtung Name": "Gerontopsychiatrisches Seniorenheim Splitt-Fennert",
+        "Einrichtung Strasse": "Lyckallee 6",
+        "Einrichtung PLZ": "14055",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "34",
+        "streetName": "Lyckallee ",
+        "streetNumber": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25399,
+          52.50655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1074-001",
+        "Einrichtung Name": "Seniorenheim Grüntal",
+        "Einrichtung Strasse": "Grüntaler Straße 53",
+        "Einrichtung PLZ": "13359",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "126",
+        "streetName": "Grüntaler Straße ",
+        "streetNumber": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39605,
+          52.55696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1076-003",
+        "Einrichtung Name": "Seniorenheim Stavangerstraße 26 ",
+        "Einrichtung Strasse": "Stavangerstraße 26",
+        "Einrichtung PLZ": "10439",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "150",
+        "streetName": "Stavangerstraße ",
+        "streetNumber": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41291,
+          52.55687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1077-001",
+        "Einrichtung Name": "mevanta Haus Rheingold",
+        "Einrichtung Strasse": "Rheingoldstraße 19",
+        "Einrichtung PLZ": "10318",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "25",
+        "streetName": "Rheingoldstraße ",
+        "streetNumber": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53235,
+          52.48073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1078-002",
+        "Einrichtung Name": "Seniorenheim Koenigsallee",
+        "Einrichtung Strasse": "Koenigsallee 15",
+        "Einrichtung PLZ": "14193",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "78",
+        "streetName": "Koenigsallee ",
+        "streetNumber": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2796,
+          52.49195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1078-003",
+        "Einrichtung Name": "Seniorenheim Lentzeallee",
+        "Einrichtung Strasse": "Lentzeallee 2-4",
+        "Einrichtung PLZ": "14195",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "91",
+        "streetName": "Lentzeallee ",
+        "streetNumber": "2-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29094,
+          52.47051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1078-004",
+        "Einrichtung Name": "Seniorenheim Hohensteiner Straße",
+        "Einrichtung Strasse": "Hohensteiner Straße 6-12",
+        "Einrichtung PLZ": "14197",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "79",
+        "streetName": "Hohensteiner Straße ",
+        "streetNumber": "6-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31592,
+          52.47651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1079-001",
+        "Einrichtung Name": "Haus Isabel GmbH",
+        "Einrichtung Strasse": "Soorstraße 60",
+        "Einrichtung PLZ": "14057",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "40",
+        "streetName": "Soorstraße ",
+        "streetNumber": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27819,
+          52.50936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1087-001",
+        "Einrichtung Name": "Seniorenheim Seeburger Weg",
+        "Einrichtung Strasse": "Seeburger Weg 26-28",
+        "Einrichtung PLZ": "13581",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "38",
+        "streetName": "Seeburger Weg ",
+        "streetNumber": "26-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17441,
+          52.52381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1090-001",
+        "Einrichtung Name": "AWW-Seniorenheim Steglitz",
+        "Einrichtung Strasse": "Grunewaldstraße 39",
+        "Einrichtung PLZ": "12165",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "54",
+        "streetName": "Grunewaldstraße ",
+        "streetNumber": "39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31073,
+          52.45975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1099-001",
+        "Einrichtung Name": "Fürsorge im Alter Seniorenresidenz Haus Pankow",
+        "Einrichtung Strasse": "Schulzestraße 10",
+        "Einrichtung PLZ": "13187",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "176",
+        "streetName": "Schulzestraße ",
+        "streetNumber": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39266,
+          52.56629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1099-002",
+        "Einrichtung Name": "Fürsorge im Alter Seniorenresidenz Haus Steglitz",
+        "Einrichtung Strasse": "Klingsorstraße 121",
+        "Einrichtung PLZ": "12203",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "180",
+        "streetName": "Klingsorstraße ",
+        "streetNumber": "121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31632,
+          52.44299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1101-001",
+        "Einrichtung Name": "Seniorenwohnanlage Rosenhof Berlin-Mariendorf",
+        "Einrichtung Strasse": "Kruckenbergstraße 1",
+        "Einrichtung PLZ": "12107",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "47",
+        "streetName": "Kruckenbergstraße ",
+        "streetNumber": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38887,
+          52.43124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1105-001",
+        "Einrichtung Name": "Paritätisches Seniorenwohnen am Rosengarten",
+        "Einrichtung Strasse": "Theodor-Brugsch-Straße 18",
+        "Einrichtung PLZ": "13125",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "140",
+        "streetName": "Theodor-Brugsch-Straße ",
+        "streetNumber": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50128,
+          52.62946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1105-002",
+        "Einrichtung Name": "Paritätisches Seniorenwohnen \"Dr.Victor Aronstein\" ",
+        "Einrichtung Strasse": "Joachimsthaler Straße 2",
+        "Einrichtung PLZ": "13055",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "144",
+        "streetName": "Joachimsthaler Straße ",
+        "streetNumber": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5006,
+          52.53797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1105-004",
+        "Einrichtung Name": "Paritätisches Seniorenwohnen am Heckelberger Ring",
+        "Einrichtung Strasse": "Heckelberger Ring 2",
+        "Einrichtung PLZ": "13055",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "107",
+        "streetName": "Heckelberger Ring ",
+        "streetNumber": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50643,
+          52.54723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1105-005",
+        "Einrichtung Name": "Paritätisches Seniorenwohnen am Schloßpark",
+        "Einrichtung Strasse": "Alt-Buch 48-50",
+        "Einrichtung PLZ": "13125",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "286",
+        "streetName": "Alt-Buch ",
+        "streetNumber": "48-50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5014,
+          52.6356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1105-007",
+        "Einrichtung Name": "PARITÄTISCHES Seniorenwohnen Vincent van Gogh",
+        "Einrichtung Strasse": "Vincent-van-Gogh-Straße 19",
+        "Einrichtung PLZ": "13057",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "144",
+        "streetName": "Vincent-van-Gogh-Straße ",
+        "streetNumber": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52435,
+          52.56531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1107-001",
+        "Einrichtung Name": "Senioren-Wohnpark Lichtenberg GmbH",
+        "Einrichtung Strasse": "Möllendorffstraße 102/103",
+        "Einrichtung PLZ": "10367",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "81",
+        "streetName": "Möllendorffstraße ",
+        "streetNumber": "102/103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4798,
+          52.51778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1109-001",
+        "Einrichtung Name": "Senioren- und Therapiezentrum Haus Havelblick",
+        "Einrichtung Strasse": "Havelschanze 3",
+        "Einrichtung PLZ": "13587",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "499",
+        "streetName": "Havelschanze ",
+        "streetNumber": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20851,
+          52.55422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1113-001",
+        "Einrichtung Name": "Werner-Bockelmann-Haus gGmbH",
+        "Einrichtung Strasse": "Bundesallee 48B - 50",
+        "Einrichtung PLZ": "10715",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "114",
+        "streetName": "Bundesallee ",
+        "streetNumber": "48B-50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33067,
+          52.48486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1117-002",
+        "Einrichtung Name": "Seniorenzentrum Köpenick- Haus II ",
+        "Einrichtung Strasse": "Werlseestraße 37-39a",
+        "Einrichtung PLZ": "12587",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "150",
+        "streetName": "Werlseestraße ",
+        "streetNumber": "37-39a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.63669,
+          52.4533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1117-003",
+        "Einrichtung Name": "Seniorenzentrum Köpenick- Haus III",
+        "Einrichtung Strasse": "Werlseestraße 37-39a",
+        "Einrichtung PLZ": "12587",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "150",
+        "streetName": "Werlseestraße ",
+        "streetNumber": "37-39a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.63669,
+          52.4533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1117-006",
+        "Einrichtung Name": "Seniorenzentrum Köpenick- Haus I ",
+        "Einrichtung Strasse": "Werlseestraße 37-39a",
+        "Einrichtung PLZ": "12587",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "90",
+        "streetName": "Werlseestraße ",
+        "streetNumber": "37-39a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.63669,
+          52.4533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1118-001",
+        "Einrichtung Name": "Kursana Domizil Berlin- Haus Landsberger Tor",
+        "Einrichtung Strasse": "Hirschfelder Weg 14",
+        "Einrichtung PLZ": "12679",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "99",
+        "streetName": "Hirschfelder Weg ",
+        "streetNumber": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57245,
+          52.54506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1119-001",
+        "Einrichtung Name": "Seniorenzentrum Lichtenberg \"Prof. Dr. Kurt Winter\"",
+        "Einrichtung Strasse": "Josef-Orlopp-Straße 13",
+        "Einrichtung PLZ": "10367",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "120",
+        "streetName": "Josef-Orlopp-Straße ",
+        "streetNumber": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48218,
+          52.52402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1122-001",
+        "Einrichtung Name": "St. Elisabeth Haus Lichtenrade -Behindertenpflegewohnheim-",
+        "Einrichtung Strasse": "Briesingstraße 22",
+        "Einrichtung PLZ": "12307",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "48",
+        "streetName": "Briesingstraße ",
+        "streetNumber": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39906,
+          52.38485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1123-001",
+        "Einrichtung Name": "St. Elisabeth-Seniorenheim",
+        "Einrichtung Strasse": "Fichtenweg 17-29",
+        "Einrichtung PLZ": "13587",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "44",
+        "streetName": "Fichtenweg ",
+        "streetNumber": "17-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2094,
+          52.57055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1136-001",
+        "Einrichtung Name": "KATHARINENHOF im Uferpalais",
+        "Einrichtung Strasse": "Brauereihof 19",
+        "Einrichtung PLZ": "13585",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "43",
+        "streetName": "Brauereihof ",
+        "streetNumber": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21156,
+          52.54672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1136-003",
+        "Einrichtung Name": "KATHARINENHOFf am Preußenpark ",
+        "Einrichtung Strasse": "Sächsische Straße 46",
+        "Einrichtung PLZ": "10707",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "120",
+        "streetName": "Sächsische Straße ",
+        "streetNumber": "46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31734,
+          52.49224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1139-001",
+        "Einrichtung Name": "Pflegewohnheim Am Plänterwald",
+        "Einrichtung Strasse": "Neue Krugallee 142",
+        "Einrichtung PLZ": "12437",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "140",
+        "streetName": "Neue Krugallee ",
+        "streetNumber": "142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48735,
+          52.47419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1139-002",
+        "Einrichtung Name": "Pflegewohnheim Alt Treptow",
+        "Einrichtung Strasse": "Martin-Hoffmann-Straße 10",
+        "Einrichtung PLZ": "12435",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "97",
+        "streetName": "Martin-Hoffmann-Straße ",
+        "streetNumber": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45837,
+          52.4947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1139-004",
+        "Einrichtung Name": "Pflegewohnheim Dr. Günter Hesse",
+        "Einrichtung Strasse": "Pankower Straße 14",
+        "Einrichtung PLZ": "13156",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "80",
+        "streetName": "Pankower Straße ",
+        "streetNumber": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42536,
+          52.58541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1139-006",
+        "Einrichtung Name": "Pflegewohnheim \"Am Kreuzberg\"",
+        "Einrichtung Strasse": "Fidicinstraße 2",
+        "Einrichtung PLZ": "10965",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "185",
+        "streetName": "Fidicinstraße ",
+        "streetNumber": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38739,
+          52.4871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1141-000",
+        "Einrichtung Name": "Verbund Lichtenberger Seniorenheime Seniorenheim \"Judith-Auer-Straße\"",
+        "Einrichtung Strasse": "Judith-Auer-Straße 8",
+        "Einrichtung PLZ": "10369",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "122",
+        "streetName": "Judith-Auer-Straße ",
+        "streetNumber": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46816,
+          52.53379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1141-001",
+        "Einrichtung Name": "Verbund Lichtenberger Seniorenheime Seniorenheim \"Am Tierpark\"",
+        "Einrichtung Strasse": "Sewanstraße 235",
+        "Einrichtung PLZ": "10319",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "144",
+        "streetName": "Sewanstraße ",
+        "streetNumber": "235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5156,
+          52.49499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1151-001",
+        "Einrichtung Name": "Vitanas Senioren Centrum Märkisches Viertel",
+        "Einrichtung Strasse": "Senftenberger Ring 51",
+        "Einrichtung PLZ": "13435",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "175",
+        "streetName": "Senftenberger Ring ",
+        "streetNumber": "51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3561,
+          52.60484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1151-002",
+        "Einrichtung Name": "Vitanas Senioren Centrum Am Bäkepark",
+        "Einrichtung Strasse": "Bahnhofstraße 29",
+        "Einrichtung PLZ": "12207",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "92",
+        "streetName": "Bahnhofstraße ",
+        "streetNumber": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31882,
+          52.43218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1151-004",
+        "Einrichtung Name": "Vitanas Senioren Centrum Am Schäfersee",
+        "Einrichtung Strasse": "Stargardtstraße 14",
+        "Einrichtung PLZ": "13407",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "187",
+        "streetName": "Stargardtstraße ",
+        "streetNumber": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35934,
+          52.56619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1151-005",
+        "Einrichtung Name": "Vitanas Senioren Centrum Am Stadtpark",
+        "Einrichtung Strasse": "Stindestraße 31",
+        "Einrichtung PLZ": "12167",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "135",
+        "streetName": "Stindestraße ",
+        "streetNumber": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33812,
+          52.44749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1151-007",
+        "Einrichtung Name": "Vitanas Senioren Centrum Frohnau",
+        "Einrichtung Strasse": "Welfenallee 37-43",
+        "Einrichtung PLZ": "13465",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "107",
+        "streetName": "Welfenallee ",
+        "streetNumber": "37-43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28707,
+          52.62822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1151-009",
+        "Einrichtung Name": "Vitanas Senioren Centrum Rosengarten",
+        "Einrichtung Strasse": "Preysingstraße 40",
+        "Einrichtung PLZ": "12249",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "165",
+        "streetName": "Preysingstraße ",
+        "streetNumber": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36109,
+          52.42575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1151-010",
+        "Einrichtung Name": "Vitanas Senioren Centrum Schäferberg",
+        "Einrichtung Strasse": "Königstraße 25-27",
+        "Einrichtung PLZ": "14109",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "123",
+        "streetName": "Königstraße ",
+        "streetNumber": "25-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.15431,
+          52.41926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1151-011",
+        "Einrichtung Name": "Vitanas Senioren Centrum Am Obersee",
+        "Einrichtung Strasse": "Degnerstraße 11",
+        "Einrichtung PLZ": "13053",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "165",
+        "streetName": "Degnerstraße ",
+        "streetNumber": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49488,
+          52.54667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1151-012",
+        "Einrichtung Name": "Vitanas Senioren Centrum Bellevue",
+        "Einrichtung Strasse": "Parrisiusstraße 4",
+        "Einrichtung PLZ": "12555",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "149",
+        "streetName": "Parrisiusstraße ",
+        "streetNumber": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57896,
+          52.45677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1168-001",
+        "Einrichtung Name": "Wohnstift Otto Dibelius",
+        "Einrichtung Strasse": "Hausstockweg 57",
+        "Einrichtung PLZ": "12107",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "55",
+        "streetName": "Hausstockweg ",
+        "streetNumber": "57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39264,
+          52.43322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1178-003",
+        "Einrichtung Name": "Seniorenbetreuung Haus Kyritz",
+        "Einrichtung Strasse": "Kyritzer Straße 63",
+        "Einrichtung PLZ": "12629",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "140",
+        "streetName": "Kyritzer Straße ",
+        "streetNumber": "63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58944,
+          52.54257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1178-006",
+        "Einrichtung Name": "Seniorenbetreuung Haus Kyritz - Neubau - Betreuung für demente Bewohner",
+        "Einrichtung Strasse": "Kyritzer Straße 63",
+        "Einrichtung PLZ": "12629",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "24",
+        "streetName": "Kyritzer Straße ",
+        "streetNumber": "63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58944,
+          52.54257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1215-002",
+        "Einrichtung Name": "Seniorenhaus Waldfriede gGmbH",
+        "Einrichtung Strasse": "Adolfstraße 20",
+        "Einrichtung PLZ": "14165",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "85",
+        "streetName": "Adolfstraße ",
+        "streetNumber": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25557,
+          52.41858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1221-002",
+        "Einrichtung Name": "Pflegeeinrichtung Treptow-Johannisthal",
+        "Einrichtung Strasse": "Südostallee 212",
+        "Einrichtung PLZ": "12487",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "156",
+        "streetName": "Südostallee ",
+        "streetNumber": "212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50569,
+          52.4538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1261-002",
+        "Einrichtung Name": "Senioren Centrum Haus Pappelhof",
+        "Einrichtung Strasse": "Ketschendorfer Weg 33",
+        "Einrichtung PLZ": "12683",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "106",
+        "streetName": "Ketschendorfer Weg ",
+        "streetNumber": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55452,
+          52.53122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1265-001",
+        "Einrichtung Name": "domino-world Club Tegel",
+        "Einrichtung Strasse": "Buddestraße 10",
+        "Einrichtung PLZ": "13507",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "180",
+        "streetName": "Buddestraße ",
+        "streetNumber": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28922,
+          52.58779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1265-002",
+        "Einrichtung Name": "domino-world Club Treptow",
+        "Einrichtung Strasse": "Gondeker Straße 7",
+        "Einrichtung PLZ": "12437",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "201",
+        "streetName": "Gondeker Straße ",
+        "streetNumber": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49169,
+          52.46458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1271-002",
+        "Einrichtung Name": "Haus am Ostseeplatz",
+        "Einrichtung Strasse": "Ostseestraße 113",
+        "Einrichtung PLZ": "10409",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "40",
+        "streetName": "Ostseestraße ",
+        "streetNumber": "113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44436,
+          52.54589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1277-001",
+        "Einrichtung Name": "Haus am Weigandufer Berlin-Rixdorf",
+        "Einrichtung Strasse": "Roseggerstraße 19",
+        "Einrichtung PLZ": "12059",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "175",
+        "streetName": "Roseggerstraße ",
+        "streetNumber": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44751,
+          52.48067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1277-002",
+        "Einrichtung Name": "Haus Gartenstadt Berlin-Rudow",
+        "Einrichtung Strasse": "Waltersdorfer Chaussee 160",
+        "Einrichtung PLZ": "12355",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "195",
+        "streetName": "Waltersdorfer Chaussee ",
+        "streetNumber": "160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51031,
+          52.40404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1277-004",
+        "Einrichtung Name": "Haus am Kienhorstpark Berlin-Reinickendorf",
+        "Einrichtung Strasse": "Ollenhauerstraße 24-28",
+        "Einrichtung PLZ": "13403",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "171",
+        "streetName": "Ollenhauerstraße ",
+        "streetNumber": "24-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32991,
+          52.56831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1280-002",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Am Schlosspark GmbH",
+        "Einrichtung Strasse": "Pestalozzistraße 30",
+        "Einrichtung PLZ": "13187",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "191",
+        "streetName": "Pestalozzistraße ",
+        "streetNumber": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40612,
+          52.57271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1285-001",
+        "Einrichtung Name": "Seniorenzentrum Bethel Köpenick ",
+        "Einrichtung Strasse": "Alfred-Randt-Straße 23",
+        "Einrichtung PLZ": "12559",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "149",
+        "streetName": "Alfred-Randt-Straße ",
+        "streetNumber": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60562,
+          52.44114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1288-001",
+        "Einrichtung Name": "ABC Blindenwohnstätte in Weißensee gemeinnützige Betriebs GmbH ",
+        "Einrichtung Strasse": "Berliner Allee 193-197",
+        "Einrichtung PLZ": "13088",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "100",
+        "streetName": "Berliner Allee ",
+        "streetNumber": "193-197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46715,
+          52.55539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1302-001",
+        "Einrichtung Name": "Seniorenzentrum St.Michael",
+        "Einrichtung Strasse": "Höhensteig 2",
+        "Einrichtung PLZ": "12526",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "100",
+        "streetName": "Höhensteig ",
+        "streetNumber": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56768,
+          52.40647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1322-001",
+        "Einrichtung Name": "Diakonisches Pflegewohnheim Schillerpark",
+        "Einrichtung Strasse": "Müllerstraße 56-58",
+        "Einrichtung PLZ": "13349",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "141",
+        "streetName": "Müllerstraße ",
+        "streetNumber": "56-58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34648,
+          52.55383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1322-004",
+        "Einrichtung Name": "Pflege & Wohnen am EGZB",
+        "Einrichtung Strasse": "Reinickendorfer Straße 61",
+        "Einrichtung PLZ": "13347",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "50",
+        "streetName": "Reinickendorfer Straße ",
+        "streetNumber": "61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36572,
+          52.55456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1335-001",
+        "Einrichtung Name": "FSE Pflegeeinrichtung House of Life ",
+        "Einrichtung Strasse": "Blücherstraße 26B",
+        "Einrichtung PLZ": "10961",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "118",
+        "streetName": "Blücherstraße ",
+        "streetNumber": "26B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40108,
+          52.49266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1335-002",
+        "Einrichtung Name": "Pflegeeinrichtung Marzahn",
+        "Einrichtung Strasse": "Wittenberger Straße 38",
+        "Einrichtung PLZ": "12689",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "150",
+        "streetName": "Wittenberger Straße ",
+        "streetNumber": "38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56769,
+          52.564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1335-003",
+        "Einrichtung Name": "Pflegeeinrichtung Käthe Kern",
+        "Einrichtung Strasse": "Woldegker Straße 21",
+        "Einrichtung PLZ": "13059",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "140",
+        "streetName": "Woldegker Straße ",
+        "streetNumber": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51267,
+          52.57333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1363-001",
+        "Einrichtung Name": "Pflegewohnheim Haus Luther",
+        "Einrichtung Strasse": "Teltower Damm 197",
+        "Einrichtung PLZ": "14167",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "96",
+        "streetName": "Teltower Damm ",
+        "streetNumber": "197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26847,
+          52.41636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1369-001",
+        "Einrichtung Name": "Zentrum f. Beatmung und Intensivpflege im \"Storkower Bogen\" GmbH",
+        "Einrichtung Strasse": "Franz-Jacob-Straße 4D",
+        "Einrichtung PLZ": "10369",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "12",
+        "streetName": "Franz-Jacob-Straße ",
+        "streetNumber": "4D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46584,
+          52.52594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1370-001",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Residenzstrasse",
+        "Einrichtung Strasse": "Thaterstraße 18",
+        "Einrichtung PLZ": "13407",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "163",
+        "streetName": "Thaterstraße ",
+        "streetNumber": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35816,
+          52.56739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1397-001",
+        "Einrichtung Name": "Stephanus gGmbH Ernst-Berendt-Haus",
+        "Einrichtung Strasse": "Albertinenstraße 20",
+        "Einrichtung PLZ": "13086",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "94",
+        "streetName": "Albertinenstraße ",
+        "streetNumber": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45904,
+          52.55171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1397-002",
+        "Einrichtung Name": "Stephanus gGmbH Haus Zur Brücke",
+        "Einrichtung Strasse": "Wendenschloßstraße 35",
+        "Einrichtung PLZ": "12559",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "150",
+        "streetName": "Wendenschloßstraße ",
+        "streetNumber": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58754,
+          52.44466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1397-004",
+        "Einrichtung Name": "Stephanus gGmbH Seniorenzentrum Ulmenhof",
+        "Einrichtung Strasse": "Grenzbergeweg 38",
+        "Einrichtung PLZ": "12589",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "95",
+        "streetName": "Grenzbergeweg ",
+        "streetNumber": "38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72056,
+          52.43448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1397-006",
+        "Einrichtung Name": "Stephanus gGmbH St. Elisabeth-Stift ",
+        "Einrichtung Strasse": "Eberswalder Straße 17/18",
+        "Einrichtung PLZ": "10437",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "84",
+        "streetName": "Eberswalder Straße ",
+        "streetNumber": "17/18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40935,
+          52.54104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1397-007",
+        "Einrichtung Name": "Stephanus gGmbH Seniorenzentrum am Bürgerpark",
+        "Einrichtung Strasse": "Leonhard-Frank-Straße 10",
+        "Einrichtung PLZ": "13156",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "76",
+        "streetName": "Leonhard-Frank-Straße ",
+        "streetNumber": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39217,
+          52.57163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1397-008",
+        "Einrichtung Name": "Stephanus gGmbH Dr. Harnisch-Haus ",
+        "Einrichtung Strasse": "Liebigstraße 39",
+        "Einrichtung PLZ": "10247",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "166",
+        "streetName": "Liebigstraße ",
+        "streetNumber": "39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4562,
+          52.51729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1397-009",
+        "Einrichtung Name": "Stephanus gGmbH Haus am Weinbergsweg \"Sala und Martin Kochmann\"",
+        "Einrichtung Strasse": "Weinbergsweg 14",
+        "Einrichtung PLZ": "10119",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "124",
+        "streetName": "Weinbergsweg ",
+        "streetNumber": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40434,
+          52.53229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1397-013",
+        "Einrichtung Name": "Stephanus gGmbH Elisabeth Diakoniewerk (Dorotheahaus)",
+        "Einrichtung Strasse": "Pfarrer-Lenzel-Straße 1-5",
+        "Einrichtung PLZ": "13156",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "36",
+        "streetName": "Pfarrer-Lenzel-Straße ",
+        "streetNumber": "1-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3957,
+          52.58864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1397-014",
+        "Einrichtung Name": "Stephanus gGmbH Elisabeth Diakoniewerk (Haus Immanuel)",
+        "Einrichtung Strasse": "Pfarrer-Lenzel-Straße 1-5",
+        "Einrichtung PLZ": "13156",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "84",
+        "streetName": "Pfarrer-Lenzel-Straße ",
+        "streetNumber": "1-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3957,
+          52.58864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1397-017",
+        "Einrichtung Name": "Stephanus gGmbH Haus Müggelspree",
+        "Einrichtung Strasse": "Am Schloßberg 1",
+        "Einrichtung PLZ": "12559",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "72",
+        "streetName": "Am Schloßberg ",
+        "streetNumber": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58523,
+          52.44341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1419-001",
+        "Einrichtung Name": "ProCurand Seniorendomizil Wilhelm-Stift  Am Schloßpark Charlottenburg Pflege ",
+        "Einrichtung Strasse": "Ernst-Bumm-Weg 6",
+        "Einrichtung PLZ": "14059",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "130",
+        "streetName": "Ernst-Bumm-Weg ",
+        "streetNumber": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28839,
+          52.5205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1419-002",
+        "Einrichtung Name": "ProCurand Seniorenresidenz Bölschestraße",
+        "Einrichtung Strasse": "Bölschestraße 37",
+        "Einrichtung PLZ": "12587",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "106",
+        "streetName": "Bölschestraße ",
+        "streetNumber": "37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62543,
+          52.45199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1427-002",
+        "Einrichtung Name": "Seniorenzentrum Caroline Bertheau ",
+        "Einrichtung Strasse": "Schönwalder Allee 26",
+        "Einrichtung PLZ": "13587",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "64",
+        "streetName": "Schönwalder Allee ",
+        "streetNumber": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19243,
+          52.56768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1427-003",
+        "Einrichtung Name": "Theodor-Fliedner-Haus",
+        "Einrichtung Strasse": "Schönwalder Allee 26",
+        "Einrichtung PLZ": "13587",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "67",
+        "streetName": "Schönwalder Allee ",
+        "streetNumber": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19243,
+          52.56768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1427-004",
+        "Einrichtung Name": "Amalie-Sieveking-Haus (Pflegewohnen)",
+        "Einrichtung Strasse": "Schönwalder Allee 26",
+        "Einrichtung PLZ": "13587",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "51",
+        "streetName": "Schönwalder Allee ",
+        "streetNumber": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19243,
+          52.56768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1427-009",
+        "Einrichtung Name": "Pflegewohnen Kurt-Scharf-Haus",
+        "Einrichtung Strasse": "Schönwalder Allee 26",
+        "Einrichtung PLZ": "13587",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "54",
+        "streetName": "Schönwalder Allee ",
+        "streetNumber": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19243,
+          52.56768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1427-011",
+        "Einrichtung Name": "Seniorenzentrum Johannastift",
+        "Einrichtung Strasse": "Sotzmannstraße 3",
+        "Einrichtung PLZ": "13581",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "72",
+        "streetName": "Sotzmannstraße ",
+        "streetNumber": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18121,
+          52.52507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1432-001",
+        "Einrichtung Name": "Rosenhof Berlin-Zehlendorf",
+        "Einrichtung Strasse": "Winfriedstraße 6",
+        "Einrichtung PLZ": "14169",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "77",
+        "streetName": "Winfriedstraße ",
+        "streetNumber": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26836,
+          52.4393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1433-001",
+        "Einrichtung Name": "Villa Grüntal-WG für Senioren GmbH",
+        "Einrichtung Strasse": "Seehofstraße 12",
+        "Einrichtung PLZ": "14169",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "60",
+        "streetName": "Seehofstraße ",
+        "streetNumber": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26484,
+          52.43368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1437-001",
+        "Einrichtung Name": "Senioren-u.Therapiezentrum \"Haus an der Spree\"",
+        "Einrichtung Strasse": "Bootsbauerstraße 17",
+        "Einrichtung PLZ": "10245",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "208",
+        "streetName": "Bootsbauerstraße ",
+        "streetNumber": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47272,
+          52.49675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1447-001",
+        "Einrichtung Name": "Pro Seniore Residenz Wasserstadt",
+        "Einrichtung Strasse": "An der Havelspitze 3",
+        "Einrichtung PLZ": "13587",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "226",
+        "streetName": "An der Havelspitze ",
+        "streetNumber": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21812,
+          52.55591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1448-001",
+        "Einrichtung Name": "Pro Seniore Residenz Kurfürstendamm",
+        "Einrichtung Strasse": "Kurfürstendamm 100",
+        "Einrichtung PLZ": "10709",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "50",
+        "streetName": "Kurfürstendamm ",
+        "streetNumber": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29692,
+          52.49837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1483-001",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Müllerstraße",
+        "Einrichtung Strasse": "Müllerstraße 76",
+        "Einrichtung PLZ": "13349",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "126",
+        "streetName": "Müllerstraße ",
+        "streetNumber": "76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.338,
+          52.55863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1486-001",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Baumschulenweg",
+        "Einrichtung Strasse": "Mörikestraße 7",
+        "Einrichtung PLZ": "12437",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "142",
+        "streetName": "Mörikestraße ",
+        "streetNumber": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48527,
+          52.46593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1487-001",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Bergstraße",
+        "Einrichtung Strasse": "Altmarkstraße 27",
+        "Einrichtung PLZ": "12169",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "181",
+        "streetName": "Altmarkstraße ",
+        "streetNumber": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34215,
+          52.45897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1494-001",
+        "Einrichtung Name": "Pro Seniore Residenz Am Märchenbrunnen",
+        "Einrichtung Strasse": "Barnimstraße 18",
+        "Einrichtung PLZ": "10249",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "220",
+        "streetName": "Barnimstraße ",
+        "streetNumber": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42268,
+          52.52617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1502-001",
+        "Einrichtung Name": "Gesundheits- und Pflegezentrum Goldenherz",
+        "Einrichtung Strasse": "Maxstraße 2",
+        "Einrichtung PLZ": "13347",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "228",
+        "streetName": "Maxstraße ",
+        "streetNumber": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36645,
+          52.54856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1510-001",
+        "Einrichtung Name": "AGAPLESION Bethanien Radeland",
+        "Einrichtung Strasse": "Radelandstraße 199/203",
+        "Einrichtung PLZ": "13589",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "171",
+        "streetName": "Radelandstraße ",
+        "streetNumber": "199/203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.16085,
+          52.56374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1510-002",
+        "Einrichtung Name": "AGAPLESION Bethanien Havelstrand",
+        "Einrichtung Strasse": "Rohrweihstraße 15",
+        "Einrichtung PLZ": "13505",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "44",
+        "streetName": "Rohrweihstraße ",
+        "streetNumber": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22132,
+          52.58699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1510-003",
+        "Einrichtung Name": "AGAPLESION Bethanien Haus Bethesda",
+        "Einrichtung Strasse": "Dieffenbachstraße 40",
+        "Einrichtung PLZ": "10967",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "101",
+        "streetName": "Dieffenbachstraße ",
+        "streetNumber": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41958,
+          52.49199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1510-004",
+        "Einrichtung Name": "AGAPLESION Bethanien Sophienhaus ",
+        "Einrichtung Strasse": "Paulsenstraße 5-6",
+        "Einrichtung PLZ": "12163",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "103",
+        "streetName": "Paulsenstraße ",
+        "streetNumber": "5-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31182,
+          52.46147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1510-005",
+        "Einrichtung Name": "AGAPLESION Bethanien HavelGarten",
+        "Einrichtung Strasse": "Spandauer Burgwall 29",
+        "Einrichtung PLZ": "13581",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "132",
+        "streetName": "Spandauer Burgwall ",
+        "streetNumber": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20084,
+          52.5263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1511-001",
+        "Einrichtung Name": "Haus Alma Via",
+        "Einrichtung Strasse": "Jenny-Lind-Straße 7",
+        "Einrichtung PLZ": "13189",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "78",
+        "streetName": "Jenny-Lind-Straße ",
+        "streetNumber": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42373,
+          52.56098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1518-001",
+        "Einrichtung Name": "Pflegewerk SRK Seniorencentrum Kurfürstendamm",
+        "Einrichtung Strasse": "Kurfürstendamm 126/127",
+        "Einrichtung PLZ": "10711",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "60",
+        "streetName": "Kurfürstendamm ",
+        "streetNumber": "126/127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28648,
+          52.49527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1522-001",
+        "Einrichtung Name": "Ev. Pflegewohnheim Schönow",
+        "Einrichtung Strasse": "Teltower Damm 189- 203",
+        "Einrichtung PLZ": "14167",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "150",
+        "streetName": "Teltower Damm ",
+        "streetNumber": "189-203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26625,
+          52.41693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1537-001",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Techowpromenade GmbH",
+        "Einrichtung Strasse": "Techowpromenade 9",
+        "Einrichtung PLZ": "13437",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "170",
+        "streetName": "Techowpromenade ",
+        "streetNumber": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32927,
+          52.58943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1541-001",
+        "Einrichtung Name": "Haus Sonne Berlin Seniorenbetreuung mit Kompetenz",
+        "Einrichtung Strasse": "Altenauer Weg 7",
+        "Einrichtung PLZ": "12209",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "85",
+        "streetName": "Altenauer Weg ",
+        "streetNumber": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32666,
+          52.41985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1544-001",
+        "Einrichtung Name": "Domizil Alt-Mariendorf",
+        "Einrichtung Strasse": "Mariendorfer Damm 148",
+        "Einrichtung PLZ": "12107",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "62",
+        "streetName": "Mariendorfer Damm ",
+        "streetNumber": "148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38761,
+          52.43809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1544-002",
+        "Einrichtung Name": "Domizil am Gartenplatz (Altbau)",
+        "Einrichtung Strasse": "Feldstraße 5",
+        "Einrichtung PLZ": "13355",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "42",
+        "streetName": "Feldstraße ",
+        "streetNumber": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3845,
+          52.53733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1544-003",
+        "Einrichtung Name": "Domizil am Gartenplatz (Anbau)",
+        "Einrichtung Strasse": "Feldstraße 5",
+        "Einrichtung PLZ": "13355",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "20",
+        "streetName": "Feldstraße ",
+        "streetNumber": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3845,
+          52.53733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1585-001",
+        "Einrichtung Name": "Seniorenpflegeheim Wedding",
+        "Einrichtung Strasse": "Gerichtstraße 79-82",
+        "Einrichtung PLZ": "13347",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "125",
+        "streetName": "Gerichtstraße ",
+        "streetNumber": "79-82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3767,
+          52.5427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1590-001",
+        "Einrichtung Name": "Wohn- und Pflegezentrum am Landschaftspark Herzberge",
+        "Einrichtung Strasse": "Allee der Kosmonauten 23B",
+        "Einrichtung PLZ": "10315",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "45",
+        "streetName": "Allee der Kosmonauten ",
+        "streetNumber": "23B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51413,
+          52.52637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1599-001",
+        "Einrichtung Name": "Herthasee Seniorenzentrum",
+        "Einrichtung Strasse": "Delbrückstraße 4A",
+        "Einrichtung PLZ": "14193",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "90",
+        "streetName": "Delbrückstraße ",
+        "streetNumber": "4A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27586,
+          52.48706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1599-002",
+        "Einrichtung Name": "Mathildenhof Seniorenzentrum",
+        "Einrichtung Strasse": "Kirchblick 8",
+        "Einrichtung PLZ": "14129",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "55",
+        "streetName": "Kirchblick ",
+        "streetNumber": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21956,
+          52.43925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1607-001",
+        "Einrichtung Name": "Haus Rudow",
+        "Einrichtung Strasse": "Rudower Straße 176",
+        "Einrichtung PLZ": "12351",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "97",
+        "streetName": "Rudower Straße ",
+        "streetNumber": "176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47404,
+          52.43153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1617-001",
+        "Einrichtung Name": "Seniorenheim Haus Hartwig",
+        "Einrichtung Strasse": "Dorotheenstraße 2",
+        "Einrichtung PLZ": "14109",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "40",
+        "streetName": "Dorotheenstraße ",
+        "streetNumber": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.14523,
+          52.39815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1637-001",
+        "Einrichtung Name": "Seniorenpflege Birkholz Betriebs GmbH",
+        "Einrichtung Strasse": "Gervinusstraße 40",
+        "Einrichtung PLZ": "10629",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "136",
+        "streetName": "Gervinusstraße ",
+        "streetNumber": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3031,
+          52.50385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1647-001",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Frobenstraße GmbH",
+        "Einrichtung Strasse": "Frobenstraße 79",
+        "Einrichtung PLZ": "12249",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "180",
+        "streetName": "Frobenstraße ",
+        "streetNumber": "79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34483,
+          52.43022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1652-001",
+        "Einrichtung Name": "Senioren-Residenz \"Märkisches Viertel\"",
+        "Einrichtung Strasse": "Senftenberger Ring 2a",
+        "Einrichtung PLZ": "13439",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "101",
+        "streetName": "Senftenberger Ring ",
+        "streetNumber": "2a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35666,
+          52.59825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1652-002",
+        "Einrichtung Name": "Alloheim/poli.care/Ensemble GmbH Senioren-Residenz \"Schwyzer Strasse\"",
+        "Einrichtung Strasse": "Schwyzer Straße 7",
+        "Einrichtung PLZ": "13349",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "96",
+        "streetName": "Schwyzer Straße ",
+        "streetNumber": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35406,
+          52.55892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1652-003",
+        "Einrichtung Name": "Senioren-Residenz \"POLIMAR\"",
+        "Einrichtung Strasse": "Ludwig-Renn-Straße 66-72",
+        "Einrichtung PLZ": "12687",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "95",
+        "streetName": "Ludwig-Renn-Straße ",
+        "streetNumber": "66-72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56096,
+          52.55485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1652-004",
+        "Einrichtung Name": "Senioren-Residenz Hildburghauser Straße",
+        "Einrichtung Strasse": "Hildburghauser Straße 31",
+        "Einrichtung PLZ": "12279",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "110",
+        "streetName": "Hildburghauser Straße ",
+        "streetNumber": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35186,
+          52.41356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1652-005",
+        "Einrichtung Name": "Senioren-Residenz \"Kurt-Exner-Haus\"",
+        "Einrichtung Strasse": "Wutzkyallee 65",
+        "Einrichtung PLZ": "12353",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "156",
+        "streetName": "Wutzkyallee ",
+        "streetNumber": "65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4743,
+          52.42395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1652-006",
+        "Einrichtung Name": "Senioren-Residenz \"Lichterfelde\"",
+        "Einrichtung Strasse": "Lichterfelder Ring 197",
+        "Einrichtung PLZ": "12209",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "138",
+        "streetName": "Lichterfelder Ring ",
+        "streetNumber": "197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33284,
+          52.41093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1652-007",
+        "Einrichtung Name": "Senioren-Residenz Ullsteinstraße",
+        "Einrichtung Strasse": "Ullsteinstraße 159",
+        "Einrichtung PLZ": "12105",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "172",
+        "streetName": "Ullsteinstraße ",
+        "streetNumber": "159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38196,
+          52.45209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1652-008",
+        "Einrichtung Name": "Sozialpsychiatrisches Pflegezentrum \"Am Körnerpark\"",
+        "Einrichtung Strasse": "Rübelandstraße 13",
+        "Einrichtung PLZ": "12051",
+        "Einrichtung Bezirk": "Neukölln",
+        "Einrichtung Platzzahl": "62",
+        "streetName": "Rübelandstraße ",
+        "streetNumber": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43898,
+          52.47071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1683-001",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Am Frankfurter Tor GmbH",
+        "Einrichtung Strasse": "Weidenweg 44",
+        "Einrichtung PLZ": "10249",
+        "Einrichtung Bezirk": "Friedrichshain-Kreuzberg",
+        "Einrichtung Platzzahl": "197",
+        "streetName": "Weidenweg ",
+        "streetNumber": "44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45181,
+          52.51804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1729-013",
+        "Einrichtung Name": "Haus Fichtenberg",
+        "Einrichtung Strasse": "Carl-Heinrich-Becker-Weg 27-29",
+        "Einrichtung PLZ": "12165",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "50",
+        "streetName": "Carl-Heinrich-Becker-Weg ",
+        "streetNumber": "27-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31016,
+          52.45598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1729-014",
+        "Einrichtung Name": "Barbara-von-Renthe-Fink-Haus",
+        "Einrichtung Strasse": "Bundesallee 33",
+        "Einrichtung PLZ": "10717",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "82",
+        "streetName": "Bundesallee ",
+        "streetNumber": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33049,
+          52.48987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1731-001",
+        "Einrichtung Name": "Käthe-Dorsch-Haus",
+        "Einrichtung Strasse": "Tharauer Allee 15",
+        "Einrichtung PLZ": "14055",
+        "Einrichtung Bezirk": "Charlottenburg-Wilmersdorf",
+        "Einrichtung Platzzahl": "136",
+        "streetName": "Tharauer Allee ",
+        "streetNumber": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22502,
+          52.50999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1733-001",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Feuerbachstraße GmbH",
+        "Einrichtung Strasse": "Feuerbachstraße 44",
+        "Einrichtung PLZ": "12163",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "121",
+        "streetName": "Feuerbachstraße ",
+        "streetNumber": "44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33592,
+          52.46413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1749-001",
+        "Einrichtung Name": "Johanniter-Stift Berlin-Tegel",
+        "Einrichtung Strasse": "Karolinenstraße 21",
+        "Einrichtung PLZ": "13507",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "117",
+        "streetName": "Karolinenstraße ",
+        "streetNumber": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28148,
+          52.59174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1755-001",
+        "Einrichtung Name": "REMEO Center Berlin",
+        "Einrichtung Strasse": "Ullsteinstraße 159",
+        "Einrichtung PLZ": "12105",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "24",
+        "streetName": "Ullsteinstraße ",
+        "streetNumber": "159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38196,
+          52.45209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1759-001",
+        "Einrichtung Name": "Brunnenhof Seniorenresidenzen & Pflegeheime Haus Steglitz GmbH ",
+        "Einrichtung Strasse": "Albrechtstraße 28",
+        "Einrichtung PLZ": "12167",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "50",
+        "streetName": "Albrechtstraße ",
+        "streetNumber": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33031,
+          52.45322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1762-001",
+        "Einrichtung Name": "Sanatorium West",
+        "Einrichtung Strasse": "Dessauerstraße 1",
+        "Einrichtung PLZ": "12249",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "180",
+        "streetName": "Dessauerstraße ",
+        "streetNumber": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33535,
+          52.42441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1763-001",
+        "Einrichtung Name": "Residenz Dahlem",
+        "Einrichtung Strasse": "Clayallee 54- 56",
+        "Einrichtung PLZ": "14195",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "120",
+        "streetName": "Clayallee ",
+        "streetNumber": "54-56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2782,
+          52.46528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1783-001",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Gotlindestraße GmbH",
+        "Einrichtung Strasse": "Gotlindestraße 51",
+        "Einrichtung PLZ": "10365",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "174",
+        "streetName": "Gotlindestraße ",
+        "streetNumber": "51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49567,
+          52.5178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1796-001",
+        "Einrichtung Name": "DOMICIL- Seniorenpflegeheim Afrikanische Straße GmbH",
+        "Einrichtung Strasse": "Transvaalstraße 22",
+        "Einrichtung PLZ": "13351",
+        "Einrichtung Bezirk": "Mitte",
+        "Einrichtung Platzzahl": "200",
+        "streetName": "Transvaalstraße ",
+        "streetNumber": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3397,
+          52.55093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1805-001",
+        "Einrichtung Name": "Haus am Wiesengrund Berlin-Spandau",
+        "Einrichtung Strasse": "Wiesengrund 20",
+        "Einrichtung PLZ": "13591",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "146",
+        "streetName": "Wiesengrund ",
+        "streetNumber": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.14239,
+          52.52586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1805-002",
+        "Einrichtung Name": "Haus Spreetalhof Berlin-Altglienicke",
+        "Einrichtung Strasse": "Semmelweisstraße 53",
+        "Einrichtung PLZ": "12524",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "140",
+        "streetName": "Semmelweisstraße ",
+        "streetNumber": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5328,
+          52.42309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1808-001",
+        "Einrichtung Name": "GIOMI Senioren-Residen Lore-Lipschitz",
+        "Einrichtung Strasse": "Horstwalder Straße 15",
+        "Einrichtung PLZ": "12307",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "168",
+        "streetName": "Horstwalder Straße ",
+        "streetNumber": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41062,
+          52.38187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1813-001",
+        "Einrichtung Name": "Friedrich Küter Pflegewohnpark ",
+        "Einrichtung Strasse": "Forddamm 6-8",
+        "Einrichtung PLZ": "12107",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "83",
+        "streetName": "Forddamm ",
+        "streetNumber": "6-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3825,
+          52.43875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1891-001",
+        "Einrichtung Name": "Fürsorge im Alter Seniorenresidenz Biesdorfer Höhe",
+        "Einrichtung Strasse": "Apollofalterallee 37",
+        "Einrichtung PLZ": "12683",
+        "Einrichtung Bezirk": "Marzahn-Hellersdorf",
+        "Einrichtung Platzzahl": "180",
+        "streetName": "Apollofalterallee ",
+        "streetNumber": "37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56811,
+          52.50542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1900-001",
+        "Einrichtung Name": "Christophorus Pflege Havelhöhe",
+        "Einrichtung Strasse": "Kladower Damm 289",
+        "Einrichtung PLZ": "14089",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "46",
+        "streetName": "Kladower Damm ",
+        "streetNumber": "289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.15534,
+          52.46019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1914-001",
+        "Einrichtung Name": "Aquinata-Pflegeeinrichtungen örtl. Bereiche Knesebeckstr. 1 und Pfleiderer Str. 3-4",
+        "Einrichtung Strasse": "Knesebeckstraße 1",
+        "Einrichtung PLZ": "12205",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "95",
+        "streetName": "Knesebeckstraße ",
+        "streetNumber": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29416,
+          52.4442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1919-007",
+        "Einrichtung Name": "Wohngruppe für geistig behinderte Menschen mit erhöhtem Pflegebedarf",
+        "Einrichtung Strasse": "Allee der Kosmonauten 23A",
+        "Einrichtung PLZ": "10315",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "10",
+        "streetName": "Allee der Kosmonauten ",
+        "streetNumber": "23A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51339,
+          52.5268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1925-001",
+        "Einrichtung Name": "Psychiatrische Pflegeeinrichtung Wannsee",
+        "Einrichtung Strasse": "Zum Heckeshorn 18",
+        "Einrichtung PLZ": "14109",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "125",
+        "streetName": "Zum Heckeshorn ",
+        "streetNumber": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.16108,
+          52.42864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1928-001",
+        "Einrichtung Name": "Domicil - Seniorenpflegeheim Amendestraße",
+        "Einrichtung Strasse": "Herbststraße 34",
+        "Einrichtung PLZ": "13409",
+        "Einrichtung Bezirk": "Reinickendorf",
+        "Einrichtung Platzzahl": "171",
+        "streetName": "Herbststraße ",
+        "streetNumber": "34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37443,
+          52.57129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1934-001",
+        "Einrichtung Name": "Seniorenzentrum Bethel Lichterfelde",
+        "Einrichtung Strasse": "Promenadenstraße 6 - 8 ",
+        "Einrichtung PLZ": "12207",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "140",
+        "streetName": "Promenadenstraße ",
+        "streetNumber": "6-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32253,
+          52.43353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1937-001",
+        "Einrichtung Name": "Domicil - Seniorenpflegeheim Am Schloss Friedrichsfelde GmbH",
+        "Einrichtung Strasse": "Alfred-Kowalke-Straße 29",
+        "Einrichtung PLZ": "10315",
+        "Einrichtung Bezirk": "Lichtenberg",
+        "Einrichtung Platzzahl": "174",
+        "streetName": "Alfred-Kowalke-Straße ",
+        "streetNumber": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52095,
+          52.50635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1950-003",
+        "Einrichtung Name": "Haus  Ingrid-Tagespflege und Pflegeeinrichtung für Senioren Berlin-Heinersdorf GmbH",
+        "Einrichtung Strasse": "Romain-Rolland-Straße 40-42",
+        "Einrichtung PLZ": "13089",
+        "Einrichtung Bezirk": "Pankow",
+        "Einrichtung Platzzahl": "70",
+        "streetName": "Romain-Rolland-Straße ",
+        "streetNumber": "40-42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44215,
+          52.56577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1951-001",
+        "Einrichtung Name": "Domicil - Seniorenpflegeheim Küterstraße GmbH",
+        "Einrichtung Strasse": "Küterstraße 7",
+        "Einrichtung PLZ": "12105",
+        "Einrichtung Bezirk": "Tempelhof-Schöneberg",
+        "Einrichtung Platzzahl": "142",
+        "streetName": "Küterstraße ",
+        "streetNumber": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38136,
+          52.44436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1954-001",
+        "Einrichtung Name": "Johanniter-Stift Berlin Johannisthal",
+        "Einrichtung Strasse": "Straße am Flugplatz 46",
+        "Einrichtung PLZ": "12487",
+        "Einrichtung Bezirk": "Treptow-Köpenick",
+        "Einrichtung Platzzahl": "99",
+        "streetName": "Straße am Flugplatz ",
+        "streetNumber": "46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51369,
+          52.4296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-1971-001",
+        "Einrichtung Name": "Pflege & Wohnen Anna Maria Gerhardt  Johannesstift Diakonie",
+        "Einrichtung Strasse": "Stadtrandstraße 555",
+        "Einrichtung PLZ": "13589",
+        "Einrichtung Bezirk": "Spandau",
+        "Einrichtung Platzzahl": "186",
+        "streetName": "Stadtrandstraße ",
+        "streetNumber": "555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.15694,
+          52.563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typkennzeichnung": "PVOLL",
+        "Einrichtungskennzeichen": "PVOLL-2019-001",
+        "Einrichtung Name": "Domicil - Seniorenpflegeheim Lichterfelde-West GmbH",
+        "Einrichtung Strasse": "Curtiusstraße 42",
+        "Einrichtung PLZ": "12205",
+        "Einrichtung Bezirk": "Steglitz-Zehlendorf",
+        "Einrichtung Platzzahl": "189",
+        "streetName": "Curtiusstraße ",
+        "streetNumber": "42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28873,
+          52.44041
+        ]
+      }
+    }
+  ]
+}
